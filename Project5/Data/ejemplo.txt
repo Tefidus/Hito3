@@ -1,0 +1,5 @@
+Nro	nombre	edad	
+1	paco	14	
+2	paca	17	
+3	omar	15	
+			

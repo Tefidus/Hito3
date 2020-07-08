@@ -1,0 +1,4 @@
+Nro	nombre	nota	
+234567	omar	12	
+18579	paca	5	
+			
